@@ -7,20 +7,20 @@ permalink: /
 notification: Here's a notification bar you can use!
 sections:
   - hero:
-      title: Hero title
-      subtitle: Hero subtitle
+      title: Hack for Public Good 2022
+      subtitle: The signature annual event of Open Government Products
       background: /images/hero-banner.png
       button: Contact Us
       url: /contact-us/
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
+        - title: H4PG 2021
+          description: See our past hackathon
           url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
+        - title: Meet the Team
+          description: Get to know the people of OGP
           url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
+        - title: Terms and Conditions
+          description: Read the T&Cs before participating
           url: /privacy/
   - infobar:
       title: Infobar title
